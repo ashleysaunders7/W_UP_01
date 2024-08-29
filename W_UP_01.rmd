@@ -43,6 +43,7 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 ```{r}
 boxplot(pushups~position,data=mydata)
 ```
+From the data in this graph, I can conclude that Skill players are capable of doing more push ups than Line players. I can conclude this because it is shown that the skill players do more push ups than line players.
 
 ### Numerical Descriptive Results
 
