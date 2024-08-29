@@ -64,3 +64,4 @@ The hypothesis we can conclude is that the p-value of push ups by position is 9.
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+In this assignment, we utilized a T-test and boxplot to determine whether LINE or SKILL players are capable of doing more pushups. With these procedures, we are able to conclude that SKILL players can do a significant amount of more pushups that LINE players. We can prove this with our evidence provided by our numerical results, showing the max for LINE is only 34, while SKILL max is 108. Also, by our t-est we can see that LINE players have a mean of 17.12500 while SKILL has a mean of 49.72727. Overall, we have solid evidence that SKILL players can do more pushups than LINE players.
