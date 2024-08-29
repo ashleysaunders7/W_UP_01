@@ -54,9 +54,11 @@ favstats(pushups~position,data=mydata)
 I can conclude there is a pattern of Skill players having a higher number of min, Q1, median, Q3, and max than the Line player significantly. This is evidence that Skill players surpass the amount of pushups that Line players can do.
 
 ## Inferential Results
-
 <!--State hypothesis clearly. Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc. Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
-
+```{r}
+t.test(pushups~position,data=mydata)
+```
+The hypothesis we can conclude is that the p-value of push ups by position is 9.421e-06, t = -5.4341 and df = 27.079, with a 95 percent confidence interval. The t-test is the appropriate procedure because it is an efficient way to determine the correlation coefficient's significance. This satisfies assumptions because with this test, we can clearly see that the mean is significantly lower for LINE players than SKILL players, with LINE = 17.12500 and SKILL = 49.72727.
 
 # Discussion and Conclusion
 
